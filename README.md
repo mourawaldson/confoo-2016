@@ -22,6 +22,13 @@ Presenting concepts and how to use [AMQP library for PHP](https://github.com/php
 
 PHPUnit history, schedule and changes on newer versions.
 
+* [Team City](https://www.jetbrains.com/teamcity/) - Continuous Integration from Jet Brain (PHP Storm)
+* [PHP Consulting](https://thephp.cc/)
+
 ## MySQL 5.7 + JSON - [Slide](http://www.slideshare.net/morgo/mysql-57-json)
 
 Benefits of new JSON type on MySQL 5.7
+
+* Can create virtual column (read only) using json data
+* Can index a virtual column
+* Update data partially (not the whole value as text or blob), faster
