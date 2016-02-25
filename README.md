@@ -1,4 +1,4 @@
-## 12 Reasons Your API Sucks - [Slide]()
+## 12 Reasons Your API Sucks - [Slide](https://speakerdeck.com/caseysoftware/12-reasons-your-api-sucks-1)
 
 Some reasons and important points to think about when building an API:
 * Have one way to do things
